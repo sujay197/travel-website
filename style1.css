@@ -1,0 +1,58 @@
+body
+{padding:0;
+	padding-top: 40px;
+	padding-left: 60px;
+margin:0;
+background-image:url(banner2.jpg);
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+}
+h1
+{text-align: center;
+	background: rgb(0,0,0,0.6);
+	margin-top: 2px;
+	color: white;
+	padding: 10px 0px 10px 0px ;
+	border-radius: 15px 15px 0px 0px;
+	font-size: 48px;
+	font-family: cursive;
+	width: 800px;
+
+	margin-bottom: 0px;	
+}
+form
+{width: 800px;
+	text-align: left;
+	font-family: cursive;
+	font-size: 19px;
+	color: white;
+	line-height: 38px;
+	background: rgb(0, 0, 0,0.5);
+
+}
+.group1
+{width: 80px;
+padding: 4px 0;
+	outline:none !important ;
+	border: 2px solid black;
+	border-radius: 50px;
+	background: white;
+	color:  black;
+}
+label
+{width: 250px;
+	display: inline-block;
+}
+input
+{
+	font-size: 16px;
+	border-radius: 20px;
+	border: 2px solid black;
+	font-family: cursive;
+}
+.group2
+{
+	margin-left: 260px;
+}
+	

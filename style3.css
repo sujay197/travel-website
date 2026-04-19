@@ -1,0 +1,38 @@
+body
+{padding:0;
+	padding-top: 20px;
+margin:0;
+background-image:url(banner2.jpg);
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+font-family: cursive;
+color: white;
+}
+h1
+{	
+	font-size: 40px;
+	margin-left: 20px;
+	margin-bottom: 16px;
+}
+img
+{
+	width: 370px;
+	height: 210px;
+}
+td
+{
+	font-size: 30px;
+	text-align: center;
+}
+h3
+{
+	font-size: 20px;
+	margin-left: 20px;
+	margin-bottom: 40px;
+	margin-top: 16px;
+}
+table
+{
+	margin-top: 25px;
+}

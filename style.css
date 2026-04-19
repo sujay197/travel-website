@@ -1,0 +1,74 @@
+body
+{padding:0;
+	padding-top: 20px;
+margin:0;
+background-image:url(banner1.jpg);
+background-position: center;
+background-size: cover;
+background-attachment: fixed
+}
+img
+{width: 210px;
+float: left;
+margin-left: 130px;
+}
+.group1
+{width: 120px;
+	padding: 12px 0;
+	outline:none !important ;
+	border: 2px solid #ffffff;
+	border-radius: 50px;
+	background: transparent;
+	color:  #ffffff;
+	float: right;
+	margin-right: 130px;
+}
+h1
+{text-align: center;
+	margin-bottom: 0px;
+color: white;
+padding-top: 220px;
+padding-bottom: 0px;
+font-size: 50px;
+font-family: cursive;
+}
+p
+{
+	margin: 14px;
+	margin-top: 2px;
+	color: white;
+	text-align: center;
+font-family: cursive;
+font-size: 22px;
+}
+input
+{
+width: 90%;
+max-width: 500px;
+border-radius: 30px;
+border: 2px solid black;
+background: #fff;
+margin: auto; 
+padding: 12px;
+}
+.group2
+{width: 80px;
+padding: 10px 0;
+	outline:none !important ;
+	border: 2px solid black;
+	border-radius: 50px;
+	background: white;
+	color:  black;
+}
+.group3
+{
+	width: 120px;
+	padding: 12px 0;
+	outline:none !important ;
+	border: 2px solid #ffffff;
+	border-radius: 50px;
+	background: transparent;
+	color:  #ffffff;
+	float: right;
+	margin-right: 10px;
+}

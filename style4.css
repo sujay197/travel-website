@@ -1,0 +1,29 @@
+body
+{padding:0;
+	padding-top: 10px;
+margin:0;
+background-image:url(banner2.jpg);
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+text-align: center;
+font-family: cursive;
+color: white;
+margin-top: 32px;
+}
+h1
+{
+	font-size: 40px;
+	margin-bottom: 2px;
+}
+h2
+{
+	font-size: 30px;
+	margin-bottom: 0px;
+}
+.group1
+{
+	font-size: 30px;
+	padding-top: 2px;
+	margin-top: 0px;
+}
